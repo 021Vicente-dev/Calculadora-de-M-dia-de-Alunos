@@ -21,7 +21,7 @@ Este é um projeto simples em Java que calcula e informa a situação de 3 aluno
 1. Instale o [JDK](https://www.oracle.com/java/technologies/javase-downloads.html) (Java Development Kit)
 2. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone https://github.com/021Vicente-dev/Calculadora-de-M-dia-de-Alunos
 ✍️ Autor
 Desenvolvido por Ryan Vicente, como parte dos primeiros estudos em Java.
 Início da jornada 🚀
